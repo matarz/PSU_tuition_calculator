@@ -1,1 +1,1 @@
-### For project details, go [here](http://matarz.github.com/PSU_tuition_calculator/).
+For project details, go to http://matarz.github.com/PSU_tuition_calculator/
