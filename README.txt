@@ -1,0 +1,1 @@
+### For project details, go [here](http://matarz.github.com/PSU_tuition_calculator/).
